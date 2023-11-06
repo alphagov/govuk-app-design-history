@@ -1,26 +1,12 @@
-# Design history for GOV.UK services
+# Design history for the GOV.UK app
 
-A place for you to document your GOV.UK service designs.
+A record of the prototypes and user research insights from the team looking at a GOV.UK app and notifications.
 
-## Purpose of this project
+## What is a design history
 
-This repository makes it easy to:
+A design history can help your team log design decisions and create a permanent record of how your service has developed over time. 
 
-* screenshot your designs
-* create pages of screenshots to document designs
-* document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
-* print pages of designs
-* make designs shareable and linkable
-
-## Installation and getting started
-
-Read our guide on how to [set up a design history](https://x-govuk.github.io/govuk-design-history/get-started/).
-
-## Support
-
-This project is maintained by a small number of volunteers working across government.
-
-For questions about using a design history for your service, bug reports or feedback, [submit a new issue](https://github.com/x-govuk/govuk-design-history-template/issues/new).
+This repo uses the [X-GOV design history template](https://github.com/x-govuk/govuk-design-history-template) a community maintained project. Read this guide on how to [set up a design history](https://x-govuk.github.io/govuk-design-history/get-started/). 
 
 ## Technical notes
 
