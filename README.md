@@ -2,6 +2,8 @@
 
 A record of the prototypes and user research insights from the team looking at a GOV.UK app and notifications.
 
+Go to the [GOV.UK app design history](https://govuk-app-design-history-a45c1af4a3dc.herokuapp.com/)
+
 ## What is a design history
 
 A design history can help your team log design decisions and create a permanent record of how your service has developed over time. 
